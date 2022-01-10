@@ -1,7 +1,7 @@
 # Stock Analysis Project: A detailed 2017-2018 review.
 
 ## Overview.
-The puropose of this paper is to portrait a detailed analysis of twelve relevant companies dedicated to green energy, and their performance on the stock market for 2017 and 2018, summarized through the Total Daily Volume and their yearly return.
+The purpose of this paper is to portrait a detailed analysis of twelve relevant companies dedicated to green energy, and their performance on the stock market for 2017 and 2018, summarized through the Total Daily Volume and their yearly return.
 
 The analysis presented here, was made through VBA code, which was refactored in some extent, in order to search through relevant data for the stocks presented here, but it can be repurposed to analyse any stock or stocks in the stock market and any year, with a very efficient and reasonable execution time just by adding an independent sheet for each year, and selecting the year in the input box to analyse the desired period of time.
 
